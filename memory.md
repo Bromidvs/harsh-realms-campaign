@@ -16,14 +16,34 @@
 - **Dark Sun**: Harsh desert world, magic is dangerous
 - **The Mandalorian**: Frontier survival, precious technology/artifacts
 
-### Design Goals
-- Living world that doesn't revolve around PCs but reacts to them
-- Consequences matter, actions have weight
-- Avoid high-level D&D complexity by focusing on low levels
-- Create meaningful survival and resource management
+## 2025-06-18 07:45 - Magic System & Faction Refinements
 
-### Next Steps
-- Establish core setting concept and geography
-- Define magic restrictions and alternative power sources
-- Create initial antagonist factions with independent goals
-- Design starting region and key settlements
+### Wild Magic Danger System
+- **Cantrips**: Safe to cast
+- **1st Level**: 1/20 chance for Wild Magic Table 1 (rarely dangerous)
+- **2nd Level**: 1/2 chance for Wild Magic Table 1
+- **3rd Level+**: Guaranteed Table 1 effect
+- **4th-6th Level**: Wild Magic Table 2 (mildly dangerous, rarely catastrophic)
+- **7th-9th Level**: Wild Magic Table 3 (always catastrophic)
+
+**Magic as Dying Art**: Very few living practitioners, only brightest minds can apprentice
+
+### Magic Items Economy
+- Nearly indestructible without magic
+- Common/uncommon non-consumables: Carefully guarded but present in settlements
+- Rare+ items: Truly rare (destroyed/hidden + fewer originally made)
+
+### Geography
+- **Biomes**: Desert, wasteland, savanna
+- **Settlements**: Located at rare green oases
+
+### Faction Structure
+1. **Human bandit leader/Thri-kreen slaver** (secretly backed by...)
+2. **Trading coalition of the three settlements**
+3. **The Old Monarch (warforged)** - ultimate threat
+
+### Next Development
+- Specific antagonist agendas and timelines
+- Available races for PCs
+- Starting region geography and settlements
+- Wild magic tables (later priority)
